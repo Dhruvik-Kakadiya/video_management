@@ -25,7 +25,7 @@ Clone the project
 _using ssh_
 
 ```bash
-git clone 
+git clone https://github.com/Dhruvik-Kakadiya/video_management.git
 ```
 
 _or using http_
